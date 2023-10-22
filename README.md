@@ -1,2 +1,2 @@
 # Face-Recognition
-Face recognition in python using OpenCV and Deepface
+Face recognition in python using OpenCV and DeepFace
